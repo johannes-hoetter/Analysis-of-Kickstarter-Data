@@ -13,3 +13,4 @@ Have fun :)Have fun :)
 This repo contains an Analysis of Data from Kickstarter Projects.
 Link to the related Medium Post: https://medium.com/@lernen.johanneshoetter/analysis-of-kickstarter-projects-361c8c853438
 >>>>>>> 348a26c376e163e7e47ce63355190bfbe14c73fa
+Have fun :)
